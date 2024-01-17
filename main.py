@@ -1,4 +1,4 @@
-#import feedparser
+import feedparser
 import datetime
 from PyKakao import Message
 
